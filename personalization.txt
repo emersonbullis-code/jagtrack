@@ -1,4 +1,5 @@
 I chose these colors because they work well together. They make the website look more professional and not bursting with color. It makes the viewer more engaged in the website and they will intract with it more.
+
 - Did you create a new calendar or use an existing one? I used an existing one. 
 - How many Canvas iCal feeds did you add? 1
 - Did you add them individually by course or as one combined feed? combined
@@ -7,3 +8,25 @@ I chose these colors because they work well together. They make the website look
 - Did you customize the calendar appearance? How? I added a pistachio color instead of the original.
 - What view works best for you (month, week, agenda)? Week works best for me, because I can see the assignments due very soon. 
 - What other calendars might you add in the future? I might add a month calendar so I can see everything that happens within that month. 
+
+[Write 5-7 sentences about your color choices:
+- What colors did you choose for light mode? Why? I chose the natural JA colors, and because it looked cool. 
+- What colors did you choose for dark mode? Why? I chose the natural JA colors, and because it looked cool.
+- How do your color choices reflect your personality or style? They reflect my personality because I go to JA.
+- Did you use any color theory principles (complementary, analogous, etc.)? Nope
+- How did you ensure good contrast for accessibility? I changed the colors until it worked well. 
+- What tools did you use to help choose colors? I used the color picker tool to get a good color for my page.
+- Were there any colors you tried that didn't work? Why not? I tried a couple darker and liger shades that did not work. 
+
+Theme Preferences:
+- Which theme do you prefer personally and why? I prefer my dark theme because it honestly just looks better.
+- When do you think dark mode is most useful? I think it is useful at all times because it is better.
+- Did you create any custom CSS for the toggle button? No I did not, I like the original button.
+
+JavaScript Understanding:
+[Write 4-5 sentences showing you understand the JavaScript code:
+- In your own words, what does the JavaScript do? The Javascript helps organize my page better by toggling dark and light mode. 
+- What is localStorage and why is it useful? It is saved in my own storage, and helps me keep my things without deleting them.
+- What happens when you click the theme toggle button? It changes from light to dark mode.
+- Why does the theme preference persist when you reload the page? It stays because it is quick enough to update very fast. 
+- How might you use JavaScript in future projects?] I might use it to create styles of different pages.

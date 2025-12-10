@@ -34,7 +34,7 @@
   /* Background Colors */
   --background-light: #f8f7f2;   /* Light gold background */
   --background-white: #ffffff;
-  --background-dark: #343a40;
+  --background-dark: #3a3f44;
 }
 
 
@@ -44,7 +44,7 @@
 body {
    font-family: 'Open Sans', sans-serif;
    color: var(--text-dark);
-   background-color: var(--background-light);
+   background-color: var(--background-dark);
 }
 
 
@@ -52,10 +52,9 @@ body {
 
 
 .jumbotron {
-  background: linear-gradient(135deg, var(--jag-black) 0%, #222222 100%);
-  color: var(--text-light);
   margin-bottom: 30px;
   padding: 60px 30px;
+  background-color:var(--background-light)
 }
 
 
@@ -180,17 +179,35 @@ footer ul li {
   list-style: none;
   margin-bottom: 8px;
 }
-:root {
-  --jag-blue: #1e1e1e;       /* Dark background */
-  --jag-gold:  #eedf0c;
-  --jag-accent: #bdb32d;
-  --text-dark: #e0e0e0;      /* Light text */
-  --text-light: #ffffff;
-  --background-light: #ffffff;
-  --background-white: #fdfdfd;
+:root {  
+    /* Light Theme*/
+  --jag-black: #ffffff;    
+  --jag-gold: #cec16e;  
+  --jag-accent: #b1a363;        
+  --text-dark: #000000;
+  --text-light: #c42929;
+  --text-muted: #ffffff;
+  --background-light: #fdfdfd;   
+  --background-white: #c4ae4c;
+  --background-dark: #ffffff;
+  --background-color:var(--jag-gold)
 }
+[data-theme="dark"] {
+    /* Dark Theme*/
+  --jag-black: #000000;    
+  --jag-gold: #D7CD89;  
+  --jag-accent: #b1a363;        
+  --text-dark: #000000;
+  --text-light: #c74242;
+  --text-muted: #6c757d;
+  --background-light: #3a3f44;   
+  --background-white: #858b91;
+  --background-dark: #3a3f44;
+}
+
+
 .navbar {
- background: linear-gradient(135deg, var(--jag-black) 0%, #222222 100%);
+ background:(135deg, var(--background-light) 0%, #222222 100%);
  padding: 0.5rem 1rem;
 }
 
