@@ -181,7 +181,7 @@ footer ul li {
 }
 :root {  
     /* Light Theme*/
-  --jag-black: #ffffff;    
+  --jag-black: #070606;    
   --jag-gold: #cec16e;  
   --jag-accent: #b1a363;        
   --text-dark: #000000;
@@ -320,4 +320,24 @@ body {
  .calendar-container {
    padding-bottom: 56.25%;
  }
+}
+.media{
+  border-width:5px;
+  border-color:#c42929;
+  border-style:solid;
+  background-color: #a88a02;
+}
+img{
+  width:200px;
+  height:200px;
+  border-width:3px;
+  border-color:#3aac1d;
+  border-style:dashed;
+}
+.card{
+    border-width:3px;
+  border-color:#000000;
+  border-style:solid;
+  background-color: #8cbcd8;
+  Margin:3px;
 }

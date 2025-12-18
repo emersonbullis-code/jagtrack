@@ -30,3 +30,26 @@ JavaScript Understanding:
 - What happens when you click the theme toggle button? It changes from light to dark mode.
 - Why does the theme preference persist when you reload the page? It stays because it is quick enough to update very fast. 
 - How might you use JavaScript in future projects?] I might use it to create styles of different pages.
+
+ABOUT ME PAGE
+1. Media Heading - Used for introducing me and my page. 
+2. Cards - Used for my three favorite things. 
+3. List Group - Used for telling my 5 favorite soccer players.
+4. Dropdowns - Used for showing pictures of each of my 5 favorite players. 
+
+Write 6-8 sentences explaining your design decisions:
+- Why did you choose those specific Bootstrap components? They worked well with the information that I used.
+- How did you decide on the layout and structure? I tested different components until it looked organized and good. 
+- What challenges did you face while building this page? I faced challenges with making the dropdowns style themselves seperately. 
+- What are you most proud of on this page? I am most proud of the dropdowns, and because they 1were hard to do, and they were cool. 
+- How does this page reflect your personality? It tells that I love soccer wayyyyy too much. 
+- What would you add or improve if you had more time? I would just improve the styling and make it look a little cleaner.  
+- How did you ensure the page was responsive? I went back into the terminal and ran it one last time to make sure it worked. 
+
+Research and Problem-Solving:
+Write 4-5 sentences about your learning process:
+- What resources did you use (Bootstrap docs, W3Schools, etc.)? I used the Bootstrap Docs. 
+- What was the hardest part to figure out? The hardest part to figure out was how to establish these styles on my page. 
+- Did you need to troubleshoot any issues? How did you solve them? I did have to reboot issues, it was just because of extra letters or accidental button presses, I just removed them. 
+- What did you learn about researching and implementing new components? I learned that they are easy to implement, you just have to learn it more. 
+- How has your confidence with Bootstrap grown from Module 1 to Module 2?] I have learnd more, so it just made it easier and made me more confident. 
